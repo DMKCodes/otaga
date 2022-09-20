@@ -1,6 +1,7 @@
 OFF TO A GOOD ART (OTAGA)
 
 By Douglas Kissack - https://dmk.codes/
+
 September 2022
 
 Technologies: Python, Django, PostgreSQL
