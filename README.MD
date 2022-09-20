@@ -1,4 +1,5 @@
 OFF TO A GOOD ART (OTAGA)
+![placeholder_logo](https://user-images.githubusercontent.com/101208652/191328376-bd27d146-2db7-4a57-8a40-f1bf18939fad.png)
 
 By Douglas Kissack - https://dmk.codes/
 
